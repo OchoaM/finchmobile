@@ -1,5 +1,6 @@
-We will be doing an American flag and if we end up with extra time we will try to add on to our flag.
+We will be doing an turtlez and if we end up with extra time we will try to add on to our turtlez.
 
+https://blockly-games.appspot.com/turtle?lang=en&level=10#nwzarg
 ===========
 
-Cool Finch 
+turtlez
